@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himansu Sekhar Sahoo</h1>
 <h3 align="center">A passionate MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. Dedicated to creating dynamic and efficient web applications with a focus on user-centric design and performance.</h3>
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="coding" width="350" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansuhs&label=Profile%20views&color=0e75b6&style=flat" alt="himansuhs" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://himansuhs.netlify.app/](https://himansuhs.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://himansuhs.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://himansuhs.netlify.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himansuhs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himansuhs/" height="30" width="40" /></a>
 </p>
 
